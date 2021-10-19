@@ -125,8 +125,8 @@ getPost(){
   });
 }
 ,,,,,,
-Creamos el la carpeta shared para nustro buscador
-ng g c shared/components/searc
+Creamos el la carpeta shared para nuestro buscador
+ng g c components/searc
 se nos crea los componentes que  necesitamos
 si nos vamos al search.component.ts
 tomamos 
@@ -134,3 +134,10 @@ app-search
 y lo colocamos en posts
 para q se nos mustra nuestro buscador en lo posts
 ,,,,,,
+
+
+......
+ ![Screenshot](https://drive.google.com/drive/folders/1TuWPTxzI4Y6SfMYBC1Lnn6hOtkoJyuZi)
+......
+
+
