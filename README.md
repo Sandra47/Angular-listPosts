@@ -139,5 +139,6 @@ para q se nos mustra nuestro buscador en lo posts
 ......
  ![Screenshot](https://drive.google.com/drive/folders/1TuWPTxzI4Y6SfMYBC1Lnn6hOtkoJyuZi)
 ......
-
+imagen de como se ve el listado de post
+https://drive.google.com/drive/folders/1TuWPTxzI4Y6SfMYBC1Lnn6hOtkoJyuZi
 
